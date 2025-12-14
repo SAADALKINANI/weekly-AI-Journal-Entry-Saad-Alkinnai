@@ -85,6 +85,14 @@ I also used AI to double-check my understanding of file handling and edge cases 
 https://chatgpt.com/share/69029664-85e8-800d-9748
 
 
+Week 13
+
+This week I used AI a few times while working on some of my finals stuyding I was stuck on some small details in my class implementations. For example,
+I asked how to decide between using a regular method and a @property for borrowed_count in the Member class. I also asked about why my Shelf.add_title() method was returning None instead of True/False, which helped me realize I needed to explicitly return the values. 
+Another time I asked for guidance on how to handle the BookCopy.checkin() method so it wouldn’t break if the book was already available. Finally, I asked why my Rating.average() test expected a result between 3.4 and 3.9 when my math gave me 4.0 — this helped me think about different ways averages can be calculated.
+Overall, I mainly used AI for concept explanations and debugging hints
+link:
+https://chatgpt.com/share/68ddbbc5-0430-800d-914f-7c52adf6d57
 
 
 
